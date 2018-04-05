@@ -1,0 +1,7 @@
+{
+    "addr":"0.0.0.0",
+    "port":1234,
+    "cryptkeys":"/path/to/cryptkeys",
+    "host_id":"/path/to/host_id",
+    "authorized_keys":"/path/to/authorized_keys"
+}
